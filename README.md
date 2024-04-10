@@ -44,7 +44,7 @@ Cosine similarity values range from -1 to 1. A value of 1 indicates that the vec
 ### Euclidean Distances:
 Euclidean distance is a measure of the straight-line distance between two points in Euclidean space. It's the "ordinary" straight-line distance between two points in a plane or three-dimensional space.
 
-####Comparison:
+#### Comparison:
 - Cosine Similarity: Measures similarity in direction, disregarding magnitude. Useful for text data, recommendation systems, and any scenario where the magnitude of the vectors is not as important as their orientation.
 
 - Euclidean Distance: Measures the geometric distance between two points in space. It's more intuitive and widely applicable, particularly in clustering, dimensionality reduction, and distance-based algorithms.
